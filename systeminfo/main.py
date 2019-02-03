@@ -7,6 +7,7 @@ import platform
 
 def main():
     print(platform.platform())
+    print("rggrrhrhhrhr")
     return
 
 if __name__ == '__main__':
