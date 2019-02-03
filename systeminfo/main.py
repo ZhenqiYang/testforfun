@@ -7,9 +7,9 @@ import platform
 
 def main():
     print(platform.platform())
-    print("rggrrhrhhrhr")
-    print("rggrrhrhhrhr2")
-
+    print("rggrrhrhhr33hr")
+    print("rggrrhr33hhrhr2")
+    print("333r")
     return
 
 if __name__ == '__main__':
