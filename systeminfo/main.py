@@ -8,6 +8,8 @@ import platform
 def main():
     print(platform.platform())
     print("rggrrhrhhrhr")
+    print("rggrrhrhhrhr2")
+
     return
 
 if __name__ == '__main__':
