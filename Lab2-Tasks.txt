@@ -1,0 +1,23 @@
+Lab2 will closely follow the Lecture4 slides on Moodle and the Jupyter Notebook provided and named 
+Lab2-Notebook-Examples-GettingData.ipynb.
+The goal of Lab2 is to practice downloading data from the Internet in different formats 
+and doing some initial work with the data.
+
+Tasks:
+--- 
+Topic1: Getting data from a Web URL
+1. Download a file for each data format listed here (.txt, .csv, .json, .pdf, .xml, .html) using the Python library “requests”. 
+2. Use specific libraries and tools for reading the content of each data format.
+3. Print out the content in a user friendly format.
+
+Topic2: Crawling data from the Web.
+1. Use wget to download a few files from Wikipedia or Project Gutenberg.
+2. Use wget to download a few books (.pdf files) from Kdnuggets.
+
+
+Topic3: Getting data via APIs.
+1. Select one public API from the list provided in Lecture4. Download a dataset from the API.
+Practice using the CSV and JSON formats.
+2. Extract different subfields from the dataset (using the “pandas” or “json” Python library).
+
+Also see Lab2-Notebook-ExampleDataAnalysis-and-PracticeExercises for optional practice exercises.
