@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'Dublin_bus.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
+        'ENGINE': 'django.db.backends.mysql99999999999999999999999999999999999999999999999999999999999999999999',
         'NAME': 'dublin_bus',
         'USER': 'root',
         'PASSWORD':'steve003',

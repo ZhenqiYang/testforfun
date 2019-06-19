@@ -16,7 +16,7 @@ from Dublin_map.models import BookInfo,Bus_Locations
 
 def index(request):
 
-    return HttpResponse('hello World !')
+    return render(request, 'Dublin_map/index.html',{'university':'ucd'})
 
 
 def static_test(request):
